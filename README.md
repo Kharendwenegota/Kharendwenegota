@@ -16,9 +16,9 @@ My interests lie in **data analytics, business intelligence and economics**. I e
 
 ### 📊 Featured Projects
 
-**🇿🇦 South African Unemployment Analysis**
+**🇿🇦 South African Unemployment-powerbi**
 - Analysing unemployment trends, youth unemployment, education disparities, and economic shocks in South Africa.
-- Tools: Python, SQL Server, Power BI, Tableau.
+- Tools: Python and Power BI.
 
 **🚗 South African Used Vehicle Market Analysis**
 - Exploring vehicle listings, pricing patterns, brand popularity, provincial distribution, and factors influencing used-car prices.
@@ -38,7 +38,7 @@ My interests lie in **data analytics, business intelligence and economics**. I e
 
 - Strengthening my Power BI and SQL skills.
 - Developing practical data analytics and business intelligence projects.
-- Building a portfolio focused on finance, economics, and South African business challenges.
+- Building a portfolio focused on economics and South African business challenges.
 - Preparing for opportunities in data analytics and business intelligence.
 
 ### 🤝 Let's Connect
